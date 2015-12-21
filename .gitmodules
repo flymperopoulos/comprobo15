@@ -10,3 +10,6 @@
 [submodule "computer_vision"]
 	path = computer_vision
 	url = https://github.com/acejang1994/computer_vision.git
+[submodule "compRoboFinalProject"]
+	path = compRoboFinalProject
+	url = https://github.com/thomasnat1/compRoboFinalProject.git
